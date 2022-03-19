@@ -21,23 +21,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ylmzumut/github-profile-views-counter/tree/master/readme/471639041/year.md">
+			<a href="https://github.com/ylmzumut/my-views-counter/tree/master/readme/471639041/year.md">
 				ylmzumut
 			</a>
 		</td>
 		<td>
-			2022/3/16 12:21 PM UTC
+			2022/3/17 12:21 PM UTC
 		</td>
 		<td>
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ylmzumut/github-profile-views-counter/raw/master/graph/471639041/small/year.png" height="20"> 16
+			<img alt="Response time graph" src="https://github.com/ylmzumut/my-views-counter/raw/master/graph/471639041/small/year.png" height="20"> 16
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/19 12:21 PM UTC</i></small>
+<small><i>Last updated on 2022/3/19 12:37 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
@@ -46,7 +46,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ```readme
 [![Image of https://github.com/ylmzumut/my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ylmzumut/my-views-counter)
 ```
-[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/my-views-counter)
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
@@ -57,6 +57,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 - [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
 ## 📄 License
-- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/my-views-counter)
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
 - Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
 - Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

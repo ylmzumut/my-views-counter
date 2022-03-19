@@ -1,7 +1,7 @@
-## [🔙 github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter)
+## [🔙 my-views-counter](https://github.com/ylmzumut/my-views-counter)
 
 ### :octocat: [ylmzumut](https://github.com/ylmzumut/ylmzumut)
-![Image of github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/graph/471639041/large/year.png)
+![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/19 12:21 PM UTC</i></small>
+<small><i>Last updated on 2022/3/19 12:37 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/github-profile-views-counter/blob/master/readme/471639041/week.md)
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/github-profile-views-counter/blob/master/readme/471639041/week.md)
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 ```
 ### Header
-# ylmzumut [<img alt="Image of github-profile-views-counter" src="https://github.com/ylmzumut/github-profile-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/github-profile-views-counter/blob/master/readme/471639041/year.md)
+# ylmzumut [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/year.md)
 ```readme
-# ylmzumut [<img alt="Image of github-profile-views-counter" src="https://github.com/ylmzumut/github-profile-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/github-profile-views-counter/blob/master/readme/471639041/year.md)
+# ylmzumut [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
