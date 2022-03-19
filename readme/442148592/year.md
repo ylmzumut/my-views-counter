@@ -166,3 +166,6 @@
 </details>
 <small><i>Last updated on 2022/3/19 12:43 PM UTC</i></small>
 
+<span>&ensp;</span>
+
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/442148592/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/442148592/week.md)
