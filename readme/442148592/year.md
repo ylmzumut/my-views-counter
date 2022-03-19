@@ -166,28 +166,3 @@
 </details>
 <small><i>Last updated on 2022/3/19 12:43 PM UTC</i></small>
 
-## ✂️Copy and 📋 Paste
-### SVG Badge
-[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/442148592/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/442148592/week.md)
-```readme
-[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/442148592/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/442148592/week.md)
-```
-### Header
-# HastaneRandevuEFCodeFirstSolution [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/442148592/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/442148592/year.md)
-```readme
-# HastaneRandevuEFCodeFirstSolution [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/442148592/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/442148592/year.md)
-```
-[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
-## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
-- The app will automatically stop measuring insights until you revoke those commits.
-## 📦 Third party
-
-- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
-- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
-- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
-- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
-## 📄 License
-- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
-- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
