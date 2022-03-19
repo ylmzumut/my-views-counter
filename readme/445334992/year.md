@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/ylmzumut/my-views-counter)
 
-### :octocat: [ylmzumut](https://github.com/ylmzumut/ylmzumut)
-![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/large/year.png)
+### :octocat: [JavaScriptCalismalarim](https://github.com/ylmzumut/JavaScriptCalismalarim)
+![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/graph/445334992/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>31</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/445334992/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/445334992/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/445334992/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/445334992/week.md)
 ```
 ### Header
-# ylmzumut [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/year.md)
+# JavaScriptCalismalarim [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/445334992/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/445334992/year.md)
 ```readme
-# ylmzumut [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/471639041/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/year.md)
+# JavaScriptCalismalarim [<img alt="Image of my-views-counter" src="https://github.com/ylmzumut/my-views-counter/blob/master/graph/445334992/small/year.png" height="20">](https://github.com/ylmzumut/my-views-counter/blob/master/readme/445334992/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
