@@ -41,7 +41,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/ylmzumut/github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ylmzumut/my-views-counter)
+[![Image of https://github.com/ylmzumut/my-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ylmzumut/my-views-counter)
 
 ```readme
 [![Image of https://github.com/ylmzumut/github-profile-views-counter](https://github.com/ylmzumut/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ylmzumut/github-profile-views-counter)
