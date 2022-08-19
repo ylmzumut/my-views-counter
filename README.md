@@ -133,22 +133,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ylmzumut/my-views-counter/tree/master/readme/472131818/year.md">
-				ReactNativeKurulum
-			</a>
-		</td>
-		<td>
-			2022/8/17 12:53 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ylmzumut/my-views-counter/raw/master/graph/472131818/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/ylmzumut/my-views-counter/tree/master/readme/472121426/year.md">
 				ToDoApp_ReactNative
 			</a>
@@ -181,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/8/19 6:15 AM UTC</i></small>
+<small><i>Last updated on 2022/8/19 12:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
