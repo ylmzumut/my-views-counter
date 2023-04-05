@@ -149,22 +149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ylmzumut/my-views-counter/tree/master/readme/472121426/year.md">
-				ToDoApp_ReactNative
-			</a>
-		</td>
-		<td>
-			2023/4/3 12:39 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ylmzumut/my-views-counter/raw/master/graph/472121426/small/year.png" height="20"> 55
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/ylmzumut/my-views-counter/tree/master/readme/471680735/year.md">
 				my-views-counter
 			</a>
@@ -181,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/5 12:18 PM UTC</i></small>
+<small><i>Last updated on 2023/4/5 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
